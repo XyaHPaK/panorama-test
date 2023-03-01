@@ -1,0 +1,6 @@
+тест,тестович,тестировщик,tester
+госпожа,управляющая,менеджер,manager
+test123,test test,тестировщик,tester
+sdawd,asdwd,программист,programmer
+sdawdwa,sdawd,программист,programmer
+sdwa,sdawd,программист,programmer
